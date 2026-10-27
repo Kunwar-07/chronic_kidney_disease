@@ -1,0 +1,78 @@
+[
+  {
+    "input": {
+      "age": 56.0,
+      "sex": 0.0,
+      "bmi": 28.2,
+      "bp_systolic": 119.5,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": 0.0,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85,
+      "blood_urea_nitrogen": 14.0,
+      "albumin_serum": 4.1,
+      "phosphorus": 3.5,
+      "bicarbonate": 25.0,
+      "calcium": 9.4,
+      "uric_acid": 5.0
+    },
+    "expected": 0.045295914310917305
+  },
+  {
+    "input": {
+      "age": 30,
+      "sex": 0,
+      "bmi": 23,
+      "bp_systolic": 119.5,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": 0.0,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85,
+      "blood_urea_nitrogen": 14.0,
+      "albumin_serum": 4.1,
+      "phosphorus": 3.5,
+      "bicarbonate": 25.0,
+      "calcium": 9.4,
+      "uric_acid": 5.0
+    },
+    "expected": 0.025964198256992633
+  },
+  {
+    "input": {
+      "age": 75,
+      "sex": 1,
+      "bmi": 28.2,
+      "bp_systolic": 155,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": 0.0,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85,
+      "blood_urea_nitrogen": 14.0,
+      "albumin_serum": 4.1,
+      "phosphorus": 3.5,
+      "bicarbonate": 25.0,
+      "calcium": 9.4,
+      "uric_acid": 5.0
+    },
+    "expected": 0.4529282956398109
+  },
+  {
+    "input": {
+      "age": 56.0,
+      "sex": 0.0,
+      "bmi": null,
+      "bp_systolic": 119.5,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": null,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85,
+      "blood_urea_nitrogen": 14.0,
+      "albumin_serum": 4.1,
+      "phosphorus": 3.5,
+      "bicarbonate": 25.0,
+      "calcium": 9.4,
+      "uric_acid": 5.0
+    },
+    "expected": 0.045295914310917305
+  }
+]

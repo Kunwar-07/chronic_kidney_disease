@@ -1,0 +1,54 @@
+[
+  {
+    "input": {
+      "age": 56.0,
+      "sex": 0.0,
+      "bmi": 28.2,
+      "bp_systolic": 119.5,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": 0.0,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85
+    },
+    "expected": 0.07142457936034693
+  },
+  {
+    "input": {
+      "age": 30,
+      "sex": 0,
+      "bmi": 23,
+      "bp_systolic": 119.5,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": 0.0,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85
+    },
+    "expected": 0.0333391309021495
+  },
+  {
+    "input": {
+      "age": 75,
+      "sex": 1,
+      "bmi": 28.2,
+      "bp_systolic": 155,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": 0.0,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85
+    },
+    "expected": 0.5401675510657205
+  },
+  {
+    "input": {
+      "age": 56.0,
+      "sex": 0.0,
+      "bmi": null,
+      "bp_systolic": 119.5,
+      "bp_diastolic": 73.66666666666667,
+      "diabetes": null,
+      "ever_smoked": 0.0,
+      "poverty_income_ratio": 2.85
+    },
+    "expected": 0.07142457936034693
+  }
+]

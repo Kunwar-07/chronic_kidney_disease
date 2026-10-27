@@ -1,0 +1,128 @@
+{
+  "2021-2023": {
+    "cycle": "2021-2023",
+    "population": "US civilian noninstitutionalized population; component-specific eligibility",
+    "terms": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+    "files": [
+      {
+        "name": "DEMO_L",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DEMO_L.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DEMO_L.htm",
+        "retrieved_at": "2026-10-23T17:32:42.389257+00:00",
+        "sha256": "ca4374a158b493b8b0163e1388da21d57a18d1b9cecff2aa4e2fa2bec494fe23",
+        "bytes": 2582160
+      },
+      {
+        "name": "BIOPRO_L",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BIOPRO_L.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BIOPRO_L.htm",
+        "retrieved_at": "2026-10-23T17:32:43.957221+00:00",
+        "sha256": "912b345aad6b71d53a3bc299a7f3bb0d5530e9fa5b6e76d2d00103979861a476",
+        "bytes": 2425520
+      },
+      {
+        "name": "ALB_CR_L",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/ALB_CR_L.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/ALB_CR_L.htm",
+        "retrieved_at": "2026-10-23T17:32:44.778159+00:00",
+        "sha256": "fc011a80d14419884559372a3196f0a268b494f4f2fa972d00be1f3a23ba3c41",
+        "bytes": 545440
+      },
+      {
+        "name": "BMX_L",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BMX_L.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BMX_L.htm",
+        "retrieved_at": "2026-10-23T17:32:45.869053+00:00",
+        "sha256": "44440c416d9ad709e8b1708a5975378ab4d5b18edc39eb5015c2ae7186500170",
+        "bytes": 1563200
+      },
+      {
+        "name": "BPXO_L",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BPXO_L.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/BPXO_L.htm",
+        "retrieved_at": "2026-10-23T17:32:46.951994+00:00",
+        "sha256": "189aa9bed689d2c69cf8d780b01de85073276fea5694dd52cdf696229f9054a6",
+        "bytes": 696720
+      },
+      {
+        "name": "DIQ_L",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DIQ_L.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DIQ_L.htm",
+        "retrieved_at": "2026-10-23T17:32:47.699891+00:00",
+        "sha256": "9535a023673ae869afae19d842d8679e06f6a464606ac15900686b41ef05090f",
+        "bytes": 847600
+      },
+      {
+        "name": "SMQ_L",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/SMQ_L.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/SMQ_L.htm",
+        "retrieved_at": "2026-10-23T17:32:48.435884+00:00",
+        "sha256": "abbefebfa5585b1e19c079fa14be20c113a4649318070197214b258d05b93c50",
+        "bytes": 651120
+      }
+    ]
+  },
+  "2017-2018": {
+    "cycle": "2017-2018",
+    "population": "US civilian noninstitutionalized population; component-specific eligibility",
+    "terms": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+    "files": [
+      {
+        "name": "DEMO_J",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DEMO_J.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DEMO_J.htm",
+        "retrieved_at": "2026-10-23T17:32:51.546187+00:00",
+        "sha256": "c0b46e0345ea19404928656277c8b0d10b0cca348a9b2fe4fc3c67e8b7ee73ec",
+        "bytes": 3412720
+      },
+      {
+        "name": "BIOPRO_J",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BIOPRO_J.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BIOPRO_J.htm",
+        "retrieved_at": "2026-10-23T17:32:52.949518+00:00",
+        "sha256": "5bcd5722c1892883b96a9d7fed0befadabacae313f800fadc0133cd5dd00c4c6",
+        "bytes": 2106080
+      },
+      {
+        "name": "ALB_CR_J",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/ALB_CR_J.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/ALB_CR_J.htm",
+        "retrieved_at": "2026-10-23T17:32:53.737586+00:00",
+        "sha256": "0017a7b8d87d29009923e22300b4ec393b06c9bbf6147eb6b2d777aca605bcbf",
+        "bytes": 509760
+      },
+      {
+        "name": "BMX_J",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BMX_J.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BMX_J.htm",
+        "retrieved_at": "2026-10-23T17:32:54.818790+00:00",
+        "sha256": "8d675e42d8826ac98714b2c3dd4c5138a5e353fb4424f7eff5e6db4a01ce838a",
+        "bytes": 1466000
+      },
+      {
+        "name": "BPXO_J",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BPXO_J.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BPXO_J.htm",
+        "retrieved_at": "2026-10-23T17:32:55.539355+00:00",
+        "sha256": "9a7f4b6d0e327282b0032c94ab85936c9b1027e5e4d410bcda6af23f188665c4",
+        "bytes": 694400
+      },
+      {
+        "name": "DIQ_J",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DIQ_J.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DIQ_J.htm",
+        "retrieved_at": "2026-10-23T17:32:57.630697+00:00",
+        "sha256": "1ecbf5360dfc331d1efbf32198553dc30e9a1f4cff0a907ed30ca72bac797f89",
+        "bytes": 3851840
+      },
+      {
+        "name": "SMQ_J",
+        "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/SMQ_J.xpt",
+        "documentation": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/SMQ_J.htm",
+        "retrieved_at": "2026-10-23T17:32:59.017070+00:00",
+        "sha256": "73c3708e540cbf520a566508aa629c3e4ba53cad77dae9388ca36384646455f4",
+        "bytes": 2305600
+      }
+    ]
+  }
+}
