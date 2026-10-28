@@ -212,7 +212,6 @@ main:focus {
   z-index:2;
   display:flex;
   justify-content:space-between;
-  border-top:1px solid #9dcfd3;
   padding-top:24px;
 }
 .hero-visual {
@@ -320,7 +319,6 @@ main:focus {
   display:flex;
   justify-content:space-between;
   align-items:center;
-  border-top:1px solid #9dcfd3;
   padding:22px 0;
   gap:20px;
   font-size:var(--text-caption);
