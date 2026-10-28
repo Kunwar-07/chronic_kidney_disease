@@ -1,0 +1,11 @@
+{
+  "name": "nephra-vercel",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm --prefix frontend run build"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
