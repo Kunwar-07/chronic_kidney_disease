@@ -1,0 +1,13 @@
+{
+  "task": "screening",
+  "input": {
+    "age": 56,
+    "sex": 0,
+    "bmi": 28.2,
+    "bp_systolic": 119.5,
+    "bp_diastolic": 73.66666666666667,
+    "diabetes": 0,
+    "ever_smoked": 0,
+    "poverty_income_ratio": 2.85
+  }
+}
